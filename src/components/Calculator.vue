@@ -184,7 +184,7 @@ export default {
     }
     .historyDetails {
         position: absolute;
-        bottom: -130px;
+        bottom: 0px;
         left: 0;
         background-color: #fff;
         padding: 1.4rem 1rem;
